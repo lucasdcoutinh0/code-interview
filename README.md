@@ -43,3 +43,7 @@ Para participar do desafio, siga as instruções abaixo:
 3. Envie um pull request com a sua solução.
 
 Boa sorte e divirta-se!
+
+
+(Nit)
+Algumas bibliotecas basicas como axios e jest ja foram instaladas para facilitar o desenvolvimento.
